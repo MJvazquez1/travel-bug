@@ -10,7 +10,7 @@ Travel-Bug, with a frontend built in React & Redux and a backend built in Django
 
 Check out [FRONTEND LIVE DEMO](https://travel-bug-frontend.mjvazquez1.repl.co) here!!
 
-Check out [API LIVE DEMO]() here!!
+Check out [API LIVE DEMO](https://travel-bug-backend.mjvazquez1.repl.co) here!!
 
 ## Tech used
 
